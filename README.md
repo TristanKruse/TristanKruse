@@ -1,5 +1,5 @@
 
-www.linkedin.com/in/tristan-kruse
+[LinkedIn](www.linkedin.com/in/tristan-kruse) - krusetristan1@gmail.com
 
 ## 🔬 Featured Projects
 
