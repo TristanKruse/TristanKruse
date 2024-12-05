@@ -24,5 +24,5 @@ Tradin
 
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="powerbi" width="40" height="40"/> </a> 
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/product-marketing/QuickSight/logo-quicksight.a31b0132945a8c0d8b4638514086f3239f18384e.png" alt="quicksight" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="quicksight" width="40" height="40"/> </a>
 
