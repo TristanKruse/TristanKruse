@@ -10,3 +10,13 @@ Repo: EnginBERT
 Technologies: Python, PyTorch, Transformers, Custom Tokenizer, Git LFS
 Highlights: Created to address the limitations of general-purpose NLP models for engineering literature, EnginBERT is tailored for engineering-specific tasks, with a focus on precision in domain-specific vocabulary and concepts.
 Tradin
+
+
+## 🛠️ Languages and Tools:
+Language
+
+python SQL R
+
+Visualization
+
+powerbi tableau
