@@ -1,7 +1,5 @@
 # Tristan Kruse
 
-# Hi there! 👋
-
 Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong focus on **Supply Chain Management** and **Data Analytics**, Currently pursuing my Master's in Business Analytics & Operations Research, I'm deeply interested in leveraging technology to solve complex supply chain challenges.
 
 💻 My work involves tools and technologies like Python, SQL, Power BI, AWS, and Tableau, with applications in reinforcement learning, forecasting, and decision optimization.
