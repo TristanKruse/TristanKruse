@@ -1,10 +1,8 @@
-### Tristan Kruse
-[LinkedIn](www.linkedin.com/in/tristan-kruse) - krusetristan1@gmail.com
-
+# Tristan Kruse
 
 # Hi there! 👋
 
-Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong focus on **Supply Chain Management**, **Data Analytics**, and **Operations Research**. Currently pursuing my Master's in Business Analytics & Operations Research, I'm deeply interested in leveraging technology to solve complex supply chain challenges.
+Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong focus on **Supply Chain Management** and **Data Analytics**, Currently pursuing my Master's in Business Analytics & Operations Research, I'm deeply interested in leveraging technology to solve complex supply chain challenges.
 
 💻 My work involves tools and technologies like Python, SQL, Power BI, AWS, and Tableau, with applications in reinforcement learning, forecasting, and decision optimization.
 
@@ -13,7 +11,12 @@ Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong
 - Modeled and solved complex supply chain problems, including the Beer Game, using Reinforcement Learning.
 - Worked on innovative projects like EnginBERT for engineering literature retrieval and a returns optimization model using Neural Networks.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tristan-kruse), and check out my CV [here](Data%20Analyst%20-%20Resume_Tristan_Kruse.pdf) for more details about my journey.
+<p>
+  Feel free to connect with me on 
+  <a href="https://www.linkedin.com/in/tristan-kruse" target="_blank" rel="noreferrer">LinkedIn</a> 
+  or reach out via email at 
+  <a href="mailto:krusetristan1@gmail.com">krusetristan1@gmail.com</a>.
+</p>
 
 Thanks for visiting!
 
