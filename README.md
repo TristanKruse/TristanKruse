@@ -38,7 +38,7 @@ Thanks for visiting!
 ### EnginBERT
 A domain-specific text embedding model focused on engineering literature. EnginBERT leverages BERT's architecture and is fine-tuned to handle specialized engineering terminology, enabling more effective tasks like information retrieval, clustering, and classification within engineering fields.
 
-Repo: EnginBERT
+Repo: [EnginBERT](https://github.com/janMagnusHeimann/EnginBERT)
 Technologies: Python, PyTorch, Transformers, Custom Tokenizer, Git LFS
 Highlights: Created to address the limitations of general-purpose NLP models for engineering literature, EnginBERT is tailored for engineering-specific tasks, with a focus on precision in domain-specific vocabulary and concepts.
 
@@ -52,7 +52,7 @@ Highlights: Achieved a 3% reduction in total costs and up to a 17% increase in s
 ### Beer-Game-RL
 A reinforcement learning solution for the Supply Chain Beer Game. Modeled the game's supply chain dynamics in Python (NumPy, Pandas) and implemented Q-Learning to optimize ordering strategies. Achieved a 31% reduction in total costs by modifying the state space, demonstrating the potential of RL in supply chain optimization.
 
-Repo: Beer-Game-RL
+Repo: [Beer-Game-RL](https://github.com/TristanKruse/Beer-Game-RL)
 Technologies: Python, NumPy, Pandas, Q-Learning
 Highlights: Combines supply chain simulation with reinforcement learning to explore automated decision-making and cost minimization in complex systems.
 
