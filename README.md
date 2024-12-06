@@ -45,7 +45,7 @@ Highlights: Created to address the limitations of general-purpose NLP models for
 ### OmniChannel-RL
 A reinforcement learning framework for modeling returns and decision-making in omnichannel retail. The project leverages a Hierarchical Markov Decision Process (HMDP) and the Proximal Policy Optimization (PPO) algorithm to optimize ordering and allocation strategies for retailers operating online and offline channels with resellable returns.
 
-Repo: OmniChannel-RL
+Repo: [OmniChannel-RL](https://github.com/TristanKruse/Modelling_returns_omni-channel_retail_Reinforcement_Learning)
 Technologies: Python, TensorFlow, Keras, NumPy, Gym
 Highlights: Achieved a 3% reduction in total costs and up to a 17% increase in service levels. The model is based on the framework outlined in the paper J. Goedhart, R. Haijema, and R. Akkerman (2023), showcasing the potential of reinforcement learning in complex, hierarchical decision-making environments.
 
