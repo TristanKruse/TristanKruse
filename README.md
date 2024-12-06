@@ -42,6 +42,13 @@ Repo: EnginBERT
 Technologies: Python, PyTorch, Transformers, Custom Tokenizer, Git LFS
 Highlights: Created to address the limitations of general-purpose NLP models for engineering literature, EnginBERT is tailored for engineering-specific tasks, with a focus on precision in domain-specific vocabulary and concepts.
 
+### OmniChannel-RL
+A reinforcement learning framework for modeling returns and decision-making in omnichannel retail. The project leverages a Hierarchical Markov Decision Process (HMDP) and the Proximal Policy Optimization (PPO) algorithm to optimize ordering and allocation strategies for retailers operating online and offline channels with resellable returns.
+
+Repo: OmniChannel-RL
+Technologies: Python, TensorFlow, Keras, NumPy, Gym
+Highlights: Achieved a 3% reduction in total costs and up to a 17% increase in service levels. The model is based on the framework outlined in the paper J. Goedhart, R. Haijema, and R. Akkerman (2023), showcasing the potential of reinforcement learning in complex, hierarchical decision-making environments.
+
 ### Beer-Game-RL
 A reinforcement learning solution for the Supply Chain Beer Game. Modeled the game's supply chain dynamics in Python (NumPy, Pandas) and implemented Q-Learning to optimize ordering strategies. Achieved a 31% reduction in total costs by modifying the state space, demonstrating the potential of RL in supply chain optimization.
 
