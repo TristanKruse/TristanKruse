@@ -14,13 +14,8 @@
   - [LinkedIn](https://www.linkedin.com/in/tristan-kruse)  
   - 📧 [krusetristan1@gmail.com](mailto:krusetristan1@gmail.com)
 
-### Interests
-- ♟️ Playing chess
-- 📚 Reading
-- 🎧 Listening to podcasts
-- ➕ Exploring mathematics
-- 🗣️ Learning new languages
-- 🥋 Practicing martial arts
+-  **Interests:**  
+  - Beyond my passion for data, I enjoy playing chess, reading, listening to podcasts, exploring mathematics, learning new languages, and practicing martial arts.
 
 ### Welcome to My GitHub! 🌟
 
