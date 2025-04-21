@@ -37,6 +37,10 @@ Thanks for visiting!
 
 ## 🔬 Featured Projects
 
+###
+
+
+
 ### EnginBERT
 A domain-specific text embedding model focused on engineering literature. EnginBERT leverages BERT's architecture and is fine-tuned to handle specialized engineering terminology, enabling more effective tasks like information retrieval, clustering, and classification within engineering fields.
 
