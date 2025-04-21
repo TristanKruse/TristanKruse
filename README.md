@@ -37,9 +37,12 @@ Thanks for visiting!
 
 ## 🔬 Featured Projects
 
-###
+### RMDP Algorithm
+A dynamic vehicle routing system for restaurant meal deliveries, implementing real-time order assignment and route optimization. Based on Ulmer et al. (2021), this project simulates delivery operations with multiple routing strategies, including Anticipatory Customer Assignment (ACA) and order bundling, enhanced by real-time visualization.
 
-
+Repo: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm)  
+Technologies: Python, NumPy, PyYAML, Matplotlib  
+Highlights: Optimizes delivery efficiency through dynamic routing strategies, achieving reduced delivery times and improved vehicle utilization. Features interactive visualization to monitor vehicle movements and order statuses, demonstrating advanced logistics optimization.
 
 ### EnginBERT
 A domain-specific text embedding model focused on engineering literature. EnginBERT leverages BERT's architecture and is fine-tuned to handle specialized engineering terminology, enabling more effective tasks like information retrieval, clustering, and classification within engineering fields.
