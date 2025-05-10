@@ -44,13 +44,6 @@ Repo: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm)
 Technologies: Python, PyTorch, NumPy, PyYAML, Matplotlib  
 Highlights: Optimizes delivery efficiency through dynamic routing strategies, achieving reduced delivery times and improved vehicle utilization. Features interactive visualization to monitor vehicle movements and order statuses, demonstrating advanced logistics optimization.
 
-### EnginBERT
-A domain-specific text embedding model focused on engineering literature. EnginBERT leverages BERT's architecture and is fine-tuned to handle specialized engineering terminology, enabling more effective tasks like information retrieval, clustering, and classification within engineering fields.
-
-Repo: [EnginBERT](https://github.com/janMagnusHeimann/EnginBERT)
-Technologies: Python, PyTorch, Transformers, Custom Tokenizer, Git LFS
-Highlights: Created to address the limitations of general-purpose NLP models for engineering literature, EnginBERT is tailored for engineering-specific tasks, with a focus on precision in domain-specific vocabulary and concepts.
-
 ### OmniChannel-RL
 A reinforcement learning framework for modeling returns and decision-making in omnichannel retail. The project leverages a Hierarchical Markov Decision Process (HMDP) and the Proximal Policy Optimization (PPO) algorithm to optimize ordering and allocation strategies for retailers operating online and offline channels with resellable returns.
 
