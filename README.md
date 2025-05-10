@@ -38,11 +38,15 @@ Thanks for visiting!
 ## 🔬 Featured Projects
 
 ### Meal Delivery Algorithm
-A dynamic vehicle routing system for restaurant meal deliveries, implementing real-time order assignment and route optimization. This project simulates delivery operations with multiple routing strategies, including Anticipatory Customer Assignment (ACA) and a novel reinforcement learning algorithm for increased order bundling, enhanced by real-time visualization.
+A dynamic vehicle routing system for the Restaurant Meal Delivery Problem (RMDP), implementing real-time order assignment and route optimization. This project simulates delivery operations with multiple routing strategies, including the Anticipatory Customer Assignment (ACA) heuristic and a novel reinforcement learning (RL) algorithm integrated with ACA to optimize postponement decisions for enhanced order bundling. The system is validated using the Meituan Challenge dataset and features real-time visualization to analyze routing performance.
 
-Repo: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm)  
-Technologies: Python, PyTorch, NumPy, PyYAML, Matplotlib  
-Highlights: Optimizes delivery efficiency through dynamic routing strategies, achieving reduced delivery times and improved vehicle utilization. Features interactive visualization to monitor vehicle movements and order statuses, demonstrating advanced logistics optimization.
+**Repo**: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm)  
+**Technologies**: Python, PyTorch (for RL), NumPy, PyYAML, Matplotlib  
+**Highlights**:  
+- Achieves a **10% reduction in total delay times** and a **7 percentage point increase in fill rates** by optimizing order assignment and bundling through strategic postponement.  
+- Simulates dynamic order arrivals, stochastic food preparation times, and real-time decision-making for realistic delivery operations.  
+- Includes interactive visualization to monitor vehicle routes, order statuses, and performance metrics like delay times and bundling efficiency.  
+- Demonstrates advanced logistics optimization with potential applications in food delivery and dynamic vehicle routing.
 
 ### OmniChannel-RL
 A reinforcement learning framework for modeling returns and decision-making in omnichannel retail. The project leverages a Hierarchical Markov Decision Process (HMDP) and the Proximal Policy Optimization (PPO) algorithm to optimize ordering and allocation strategies for retailers operating online and offline channels with resellable returns.
