@@ -38,7 +38,7 @@ Thanks for visiting!
 ## 🔬 Featured Projects
 
 ### Meal Delivery Algorithm
-A dynamic vehicle routing system for the Restaurant Meal Delivery Problem (RMDP), implementing real-time order assignment and route optimization. This project simulates delivery operations with multiple routing strategies, including the Anticipatory Customer Assignment (ACA) heuristic and a novel reinforcement learning (RL) algorithm integrated with ACA to optimize postponement decisions for enhanced order bundling. The system is validated using the Meituan Challenge dataset and features real-time visualization to analyze routing performance.
+A dynamic vehicle routing system for the Restaurant Meal Delivery Problem (RMDP), implementing real-time order assignment and route optimization. This project simulates delivery operations with multiple routing strategies, including the Anticipatory Customer Assignment (ACA) heuristic and a novel reinforcement learning (RL) algorithm integrated with ACA to optimize postponement decisions for enhanced order bundling and assignement. The system is validated using the Meituan Challenge dataset and features real-time visualization to analyze routing performance.
 
 **Repo**: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm)  
 **Technologies**: Python, PyTorch (for RL), NumPy, PyYAML, Matplotlib  
