@@ -37,16 +37,23 @@ Thanks for visiting!
 
 ## 🔬 Featured Projects
 
-### Meal Delivery Algorithm
-A dynamic vehicle routing system for the Restaurant Meal Delivery Problem (RMDP), implementing real-time order assignment and route optimization. This project simulates delivery operations with multiple routing strategies, including the Anticipatory Customer Assignment (ACA) heuristic and a novel reinforcement learning (RL) algorithm integrated with ACA to optimize postponement decisions for enhanced order bundling and assignement. The system is validated using the Meituan Challenge dataset and features real-time visualization to analyze routing performance.
+### Reinforcement Learning Assignment Algorithm (RL-ACA)
+A reinforcement learning approach to optimize food delivery logistics, addressing the Restaurant Meal Delivery Problem through an enhanced Anticipatory Customer
+Assignment framework. The project introduces RL-ACA, a novel algorithm that uses dynamic postponement strategies learned through Deep Q-Networks to optimize
+delivery assignment and bundling decisions. The system is comprehensively validated using real-world Meituan data (647,395 orders across 22 districts) and
+features statistical analysis across multiple operational contexts.
 
-**Repo**: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm)  
-**Technologies**: Python, PyTorch (for RL), NumPy, PyYAML, Matplotlib  
-**Highlights**:  
-- Achieves a **10% reduction in total delay times** and a **7 percentage point increase in fill rates** by optimizing order assignment and bundling through strategic postponement.  
-- Simulates dynamic order arrivals, stochastic food preparation times, and real-time decision-making for realistic delivery operations.  
-- Includes interactive visualization to monitor vehicle routes, order statuses, and performance metrics like delay times and bundling efficiency.  
-- Demonstrates advanced logistics optimization with potential applications in food delivery and dynamic vehicle routing.
+**Repo**: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm) 
+**Technologies**: Python, PyTorch (Deep Q-Network), NumPy, Pandas, Statistical Analysis, Real-time
+**Highlights**:
+- Achieves a 5.5% reduction in average distance per order and 1.5 percentage point lower idle rates through intelligent postponement decisions, improving driver
+efficiency and platform sustainability.
+- Demonstrates superior performance in high-stress scenarios with 4.4 percentage point advantage in on-time delivery rates, showcasing adaptability under
+operational pressure.
+- Validates performance across 120 real-world scenarios with statistical significance testing, providing robust evidence of algorithm effectiveness in diverse
+urban delivery contexts.
+- Features comprehensive benchmarking framework comparing RL-ACA against baseline methods, with detailed analysis of trade-offs between routing efficiency and
+delivery timeliness across stakeholder priorities.
 
 ### OmniChannel-RL
 A reinforcement learning framework for modeling returns and decision-making in omnichannel retail. The project leverages a Hierarchical Markov Decision Process (HMDP) and the Proximal Policy Optimization (PPO) algorithm to optimize ordering and allocation strategies for retailers operating online and offline channels with resellable returns.
