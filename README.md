@@ -8,7 +8,7 @@
   - Bachelor's in Business Management (Supply Chain Management), Bonn-Rhein-Sieg University of Applied Sciences.
 
 - 💼 **Work Experience:**  
-  - Data Analyst Intern at Genpact, specializing in supply chain analytics, dashboard development, and data optimization.  
+  - Data Analyst at Genpact, specializing in supply chain analytics, dashboard development, and data optimization.  
 
 - 🌐 **Connect:**  
   - [LinkedIn](https://www.linkedin.com/in/tristan-kruse)  
