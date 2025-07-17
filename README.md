@@ -46,6 +46,7 @@ features statistical analysis across multiple operational contexts.
 **Repo**: [RMDP_Algorithm](https://github.com/TristanKruse/RMDP_Algorithm) 
 **Technologies**: Python, PyTorch (Deep Q-Network), NumPy, Pandas, Statistical Analysis, Real-time
 **Highlights**:
+
 - Achieves a 5.5% reduction in average distance per order and 1.5 percentage point lower idle rates through intelligent postponement decisions, improving driver
 efficiency and platform sustainability.
 - Demonstrates superior performance in high-stress scenarios with 4.4 percentage point advantage in on-time delivery rates, showcasing adaptability under
