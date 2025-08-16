@@ -20,12 +20,12 @@
 
 ### Welcome to My GitHub! 🌟
 
-Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong focus on **Supply Chain Management** and **Data Analytics**, Currently pursuing my Master's in Business Analytics & Operations Research, I'm deeply interested in leveraging technology to solve complex supply chain challenges.
+Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong focus on **Supply Chain Management** and **Data Analytics**, I'm deeply interested in leveraging technology to solve complex supply chain challenges.
 
 💻 My work involves tools and technologies like Python, SQL, AWS, and Tableau, with applications in reinforcement learning, forecasting, and decision optimization.
 
 🌟 Highlights:
-- Interned at Genpact, developing dashboards and optimizing data workflows to enhance supply chain operations.
+- Data Analyst at Genpact, developing dashboards and optimizing data workflows to enhance supply chain operations.
 - Modeled and solved complex supply chain problems, including the Beer Game, using Reinforcement Learning.
 - Worked on innovative projects like EnginBERT for engineering literature retrieval and a returns optimization model using Neural Networks.
 
