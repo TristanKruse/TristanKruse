@@ -45,7 +45,7 @@ Highlights: Combines supply chain simulation with reinforcement learning to expl
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="40" height="40"/> </a>
 
 **Visualization**
-
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="quicksight" width="40" height="40"/> </a>
 
