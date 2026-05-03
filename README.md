@@ -1,40 +1,5 @@
 # Tristan Kruse
 
-
-### About Me
-
-- 🎓 **Education:**  
-  - Master's in Business Analytics & Operations Research (Supply Chain Management), Catholic University of Eichstätt-Ingolstadt.  
-  - Bachelor's in Business Management (Supply Chain Management), Bonn-Rhein-Sieg University of Applied Sciences.
-
-- 💼 **Work Experience:**  
-  - Data Analyst at Genpact, specializing in supply chain analytics, dashboard development, and data optimization.  
-
-- 🌐 **Connect:**  
-  - [LinkedIn](https://www.linkedin.com/in/tristan-kruse)  
-  - 📧 [krusetristan1@gmail.com](mailto:krusetristan1@gmail.com)
-
-- 📖 **Interests:**
-  - Beyond my passion for data, I enjoy playing chess, reading, listening to podcasts, exploring mathematics, learning new languages, and practicing martial arts.
-
-
-### Welcome to My GitHub! 🌟
-
-Welcome to my GitHub! I'm Tristan Kruse, a passionate professional with a strong focus on **Supply Chain Management** and **Data Analytics**, I'm deeply interested in leveraging technology to solve complex supply chain challenges.
-
-💻 My work involves tools and technologies like Python, SQL, AWS, and Tableau, with applications in reinforcement learning, forecasting, and decision optimization.
-
-🌟 Highlights:
-- Data Analyst at Genpact, developing dashboards and optimizing data workflows to enhance supply chain operations.
-- Modeled and solved complex supply chain problems, including the Beer Game, using Reinforcement Learning.
-- Worked on innovative projects like EnginBERT for engineering literature retrieval and a returns optimization model using Neural Networks.
-
-Thanks for visiting!
-
-
-
-
-
 ## 🔬 Featured Projects
 
 ### Reinforcement Learning Assignment Algorithm (RL-ACA)
