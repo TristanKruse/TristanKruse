@@ -2,6 +2,20 @@
 
 ## 🔬 Featured Projects
 
+### ArchUnitPython
+A Python architecture testing framework inspired by ArchUnit for Java, designed to help developers enforce clean architecture principles, dependency rules, and maintainable code structures in Python projects. As a contributor to the project, I have been involved in extending functionality, improving the framework, and supporting the long-term development of the library as it continues to grow within the Python ecosystem.
+
+**Repo**: [ArchUnitPython](https://github.com/LukasNiessen/ArchUnitPython)  
+**Technologies**: Python, Software Architecture, Testing Frameworks, Static Analysis, Clean Architecture
+
+**Highlights**:
+- Contributes to an open-source architecture testing framework inspired by the widely adopted Java ArchUnit library.
+- Helps developers define and automatically validate architectural constraints within Python codebases.
+- Focuses on maintainability, modularity, and scalable software design principles.
+- Active contributor with increasing ownership and involvement in the future direction of the project.
+
+
+
 ### Reinforcement Learning Assignment Algorithm (RL-ACA)
 A reinforcement learning approach to optimize food delivery logistics, addressing the Restaurant Meal Delivery Problem through an enhanced Anticipatory Customer
 Assignment framework. The project introduces RL-ACA, a novel algorithm that uses dynamic postponement strategies learned through Deep Q-Networks to optimize
